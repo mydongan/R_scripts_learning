@@ -1,0 +1,25 @@
+group	classification	number
+K082T	Normal specific	465
+K082T	Tissue specific	589
+K082T	Concordant	33540
+Org-K082-p9	Normal specific	5046
+Org-K082-p9	Tissue specific	588
+Org-K082-p9	Concordant	28805
+K086T	Normal specific	525
+K086T	Tissue specific	547
+K086T	Concordant	33992
+Org-K086-p9	Normal specific	5835
+Org-K086-p9	Tissue specific	605
+Org-K086-p9	Concordant	28467
+Org-S020-p16	Tissue specific	797
+Org-S020-p16	Normal specific	5605
+Org-S020-p16	Concordant	28846
+S020T	Normal specific	561
+S020T	Tissue specific	487
+S020T	Concordant	33931
+Org-S037-p11	Tissue specific	615
+Org-S037-p11	Normal specific	4663
+Org-S037-p11	Concordant	29534
+S037T	Normal specific	613
+S037T	Tissue specific	456
+S037T	Concordant	33515
